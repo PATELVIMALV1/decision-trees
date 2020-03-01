@@ -1,3 +1,4 @@
+#this is a dataset ofBenign-Maligant##
 attach(wbcd_new)
 
 #table of diagosis
